@@ -1,8 +1,10 @@
 <script>
-  import Header from '$lib/Header.svelte'
+  import Header from "$lib/Header_English.svelte"
+  import Nav from "$lib/Nav_English.svelte"
 </script>
 
 <Header />
+<Nav />
 
 <main>
   <h2>SvelteKit</h2>
