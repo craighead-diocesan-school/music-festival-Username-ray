@@ -16,7 +16,7 @@
       <nav>
         <div class="flexitem_header">
           <div class="flexbox_nav">
-            <div class="flexitem_nav_2"><a href="/EnglishAccomodation">Accomodation</a></div>
+            <div class="flexitem_nav_2"><a href="/EnglishAccommodation">Accommodation</a></div>
             <div class="flexitem_nav_2"><a href="/MaoriHome">Eng - Maori</a></div>
           </div>
         </div>
