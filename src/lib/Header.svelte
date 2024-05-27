@@ -1,6 +1,6 @@
-<header>
+<body>
   <div class="flexbox_header">
-    <div class="title">
+    <header class="title">
       <nav>
         <div class="flexitem_header">
           <div class="flexitem_nav_1">
@@ -21,14 +21,16 @@
           </div>
         </div>
       </nav>
-    </div>
+    </header>
   </div>
-</header>
+</body>
 
 <style>
   body {
     font-family: "Playfair Display SC", serif;
     text-align: center;
+  }
+  header {
     background-color: #a0e1fd;
     display: flex;
   }
