@@ -1,10 +1,9 @@
 <script>
-  import Header from "$lib/Header_English.svelte"
-  import Nav from "$lib/Nav_English.svelte"
+  import Header from "$lib/Header.svelte"
+  import Footer from "$lib/Footer.svelte"
 </script>
 
 <Header />
-<Nav />
 
 <main>
   <h2>SvelteKit</h2>
@@ -15,3 +14,5 @@
 <footer>
   <p>&copy; Craighead Diocesan School 2024</p>
 </footer>
+
+<Footer />
