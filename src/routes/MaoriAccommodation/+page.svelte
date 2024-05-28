@@ -37,9 +37,9 @@
   <div class="paragraph">
     <p>Engari ko te mea pai rawa atu o a maatau kete noho teneti ko te hapori. Ka karapotia koe e etahi atu kaikawe hakari e rite ana ki a koe te hikaka ki te whai waahi ki te wheako. Ka whai hoa hou koe, ka tiritiri korero, ka hanga maumahara ka mau mo te wa katoa.</p>
     <p>Kaua e ngaro i tenei waahi ki te whakanui i to wheako hakari waiata. Tuhia to kete noho teneti i tenei ra, kia rite mo te haerenga e kore e warewarehia. Kare e taea e matou te tatari kia kite koe i reira!</p>
-    <div class="container-img">
-      <img class="card-img" src="tony-pham.jpg" alt="&copy; Tony Pham" />
-    </div>
+  </div>
+  <div class="container-img">
+    <img class="card-img" src="tony-pham.jpg" alt="&copy; Tony Pham" />
   </div>
   <div class="container-tent">
     <p>Nga waahi teneti</p>
@@ -81,6 +81,7 @@
     filter: drop-shadow(10px 10px 10px #000000);
     width: 700px;
     margin: 0 auto;
+    margin-top: 10px;
   }
   .hoge-list {
     display: flex;

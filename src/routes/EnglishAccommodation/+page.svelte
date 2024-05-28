@@ -37,9 +37,9 @@
   <div class="paragraph">
     <p>But the best part of our tent accommodation packages is the community. You'll be surrounded by other festival-goers who are just as excited as you are to be a part of the experience. You'll make new friends, share stories, and create memories that will last a lifetime.</p>
     <p>Don't miss out on this opportunity to enhance your music festival experience. Book your tent accommodation package today and get ready for an unforgettable adventure. We can't wait to see you there!</p>
-    <div class="container-img">
-      <img class="card-img" src="tony-pham.jpg" alt="&copy; Tony Pham" />
-    </div>
+  </div>
+  <div class="container-img">
+    <img class="card-img" src="tony-pham.jpg" alt="&copy; Tony Pham" />
   </div>
   <div class="container-tent">
     <p>Tent sites</p>
