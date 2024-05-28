@@ -1,5 +1,5 @@
 <script>
-  import Header from "$lib/EnglishHeader.svelte"
+  import Header from "$lib/MaoriHeader.svelte"
   import Footer from "$lib/Footer.svelte"
 </script>
 
