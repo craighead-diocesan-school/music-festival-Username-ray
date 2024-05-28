@@ -10,7 +10,7 @@
       </nav>
       <div class="flexitem_header">
         <div class="title_body">
-          <h1>Sunburst Festival</h1>
+          <h1><a class="nav_text" href="/">Sunburst Festival</a></h1>
         </div>
       </div>
       <nav>
@@ -37,9 +37,11 @@
     margin: 5px 5px 5px 5px;
   }
   .title {
-    color: #fc9145;
     font-size: 96px;
     padding: 30px 5px 20px 5px;
+  }
+  .nav_text {
+    color: #fc9145;
   }
   h1 {
     filter: drop-shadow(4px 3px 3px #000000);
@@ -73,7 +75,7 @@
     min-width: 225px;
     border-radius: 30px;
   }
-  a {
+  a:not(.nav_text) {
     color: #000000;
     z-index: 2;
   }
@@ -88,7 +90,10 @@
   .flexitem_nav_2:hover {
     background-color: #000000;
   }
-  a:hover {
+  a:not(.nav_text):hover {
     color: #fc9145;
+  }
+  .nav_text:hover {
+    color: #000000;
   }
 </style>
