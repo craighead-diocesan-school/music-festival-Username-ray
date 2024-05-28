@@ -65,6 +65,7 @@
     min-width: 225px;
     border-radius: 30px;
   }
+
   .flexitem_nav_2 {
     background: #fc9145;
     margin: 10px 10px 15px 10px;
@@ -74,10 +75,20 @@
   }
   a {
     color: #000000;
+    z-index: 2;
   }
   .flexbox_header {
     display: flex;
     flex-direction: row;
     justify-content: center;
+  }
+  .flexitem_nav_1:hover {
+    background-color: #000000;
+  }
+  .flexitem_nav_2:hover {
+    background-color: #000000;
+  }
+  a:hover {
+    color: #fc9145;
   }
 </style>
