@@ -128,4 +128,36 @@
       border-radius: 7.7px;
     }
   }
+  @media screen and (min-width: 820px) {
+    header {
+      margin: 2.7px 2.7px 2.7px 2.7px;
+    }
+    .title {
+      font-size: 52.2px;
+      padding: 16.2px 2.7px 10.9px 2.7px;
+    }
+    h1 {
+      filter: drop-shadow(2.1px 1.7px 1.7px #000000);
+      transform: translate(0, 10%);
+    }
+    .title_body {
+      min-width: 546.7px;
+    }
+    nav {
+      font-size: 13px;
+      filter: drop-shadow(0px 2.1px 2.1px #000000);
+    }
+    .flexitem_nav_1 {
+      margin: 5.5px;
+      padding: 8.2px 5.5px 8.2px 5.5px;
+      min-width: 122px;
+      border-radius: 16.2px;
+    }
+    .flexitem_nav_2 {
+      margin: 5.5px 5.5px 8.2px 5.5px;
+      padding: 8.2px 5.5px 8.2px 5.5px;
+      min-width: 122px;
+      border-radius: 16.2px;
+    }
+  }
 </style>
