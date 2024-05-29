@@ -96,7 +96,7 @@
   .nav_text:hover {
     color: #000000;
   }
-  @media screen and (min-width: 390px) {
+  @media screen and (min-width: 390px) and (max-width: 819px) {
     header {
       margin: 1.3px 1.3px 1.3px 1.3px;
     }
@@ -128,7 +128,7 @@
       border-radius: 7.7px;
     }
   }
-  @media screen and (min-width: 820px) {
+  @media screen and (min-width: 820px) and (max-width: 1439px) {
     header {
       margin: 2.7px 2.7px 2.7px 2.7px;
     }

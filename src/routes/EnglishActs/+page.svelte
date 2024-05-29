@@ -56,7 +56,7 @@
     filter: drop-shadow(10px 10px 10px #000000);
     padding: 15px 8px 0px 8px;
   }
-  @media screen and (min-width: 390px) {
+  @media screen and (min-width: 390px) and (max-width: 819px) {
     main {
       font-size: 10.3px;
       line-height: 23.2px;
@@ -71,6 +71,23 @@
     .card-img {
       filter: drop-shadow(2.6px 2.6px 2.6px #000000);
       padding: 3.9px 2.06px 0px 2.06px;
+    }
+  }
+  @media screen and (min-width: 820px) and (max-width: 1439px) {
+    main {
+      font-size: 21.7px;
+      line-height: 48.8px;
+    }
+    .paragraph {
+      margin: 32.6px 21.7px;
+    }
+    .container-img {
+      margin: 5.5px;
+      min-width: 766.4px;
+    }
+    .card-img {
+      filter: drop-shadow(5.5px 5.5px 5.5px #000000);
+      padding: 8.2px 4.3px 0px 4.3px;
     }
   }
 </style>

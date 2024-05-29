@@ -10,7 +10,7 @@
       </nav>
       <div class="flexitem_header">
         <div class="title_body">
-          <h1><a class="nav_text" href="/MaoriHome">MHuihuinga Sunburst</a></h1>
+          <h1><a class="nav_text" href="/MaoriHome">Mhuihuinga Sunburst</a></h1>
         </div>
       </div>
       <nav>
@@ -34,11 +34,11 @@
   header {
     background-color: #a0e1fd;
     display: flex;
-    margin: 5px 5px 5px 5px;
+    margin: 5px 3px 5px 3px;
   }
   .title {
     color: #fc9145;
-    font-size: 87px;
+    font-size: 81px;
     padding: 30px 5px 20px 5px;
   }
   .nav_text {
@@ -47,10 +47,10 @@
   h1 {
     filter: drop-shadow(4px 3px 3px #000000);
     text-align: center;
-    transform: translate(0, 10%);
+    transform: translate(0, 15%);
   }
   .title_body {
-    min-width: 1512px;
+    min-width: 800px;
     white-space: nowrap;
   }
   nav {
@@ -96,7 +96,7 @@
   .nav_text:hover {
     color: #000000;
   }
-  @media screen and (min-width: 390px) {
+  @media screen and (min-width: 390px) and (max-width: 819px) {
     header {
       margin: 1.3px 1.3px 1.3px 1.3px;
     }
@@ -128,7 +128,7 @@
       border-radius: 7.7px;
     }
   }
-  @media screen and (min-width: 820px) {
+  @media screen and (min-width: 820px) and (max-width: 1439px) {
     header {
       margin: 2.7px 2.7px 2.7px 2.7px;
     }
