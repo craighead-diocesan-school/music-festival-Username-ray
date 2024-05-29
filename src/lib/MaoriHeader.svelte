@@ -96,4 +96,36 @@
   .nav_text:hover {
     color: #000000;
   }
+  @media screen and (min-width: 390px) {
+    header {
+      margin: 1.3px 1.3px 1.3px 1.3px;
+    }
+    .title {
+      font-size: 22.4px;
+      padding: 7.7px 1.3px 5.2px 1.3px;
+    }
+    h1 {
+      filter: drop-shadow(1px 0.8px 0.8px #000000);
+      transform: translate(0, 10%);
+    }
+    .title_body {
+      min-width: 206.3px;
+    }
+    nav {
+      font-size: 6.19px;
+      filter: drop-shadow(0px 1px 1px #000000);
+    }
+    .flexitem_nav_1 {
+      margin: 2.6px;
+      padding: 3.9px 2.6px 3.9px 2.6px;
+      min-width: 58px;
+      border-radius: 7.7px;
+    }
+    .flexitem_nav_2 {
+      margin: 2.6px 2.6px 3.9px 2.6px;
+      padding: 3.9px 2.6px 3.9px 2.6px;
+      min-width: 58px;
+      border-radius: 7.7px;
+    }
+  }
 </style>

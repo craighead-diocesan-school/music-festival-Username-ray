@@ -56,4 +56,21 @@
     filter: drop-shadow(10px 10px 10px #000000);
     padding: 15px 8px 0px 8px;
   }
+  @media screen and (min-width: 390px) {
+    main {
+      font-size: 10.3px;
+      line-height: 23.2px;
+    }
+    .paragraph {
+      margin: 15.5px 10.3px;
+    }
+    .container-img {
+      margin: 2.6px;
+      min-width: 364.5px;
+    }
+    .card-img {
+      filter: drop-shadow(2.6px 2.6px 2.6px #000000);
+      padding: 3.9px 2.06px 0px 2.06px;
+    }
+  }
 </style>

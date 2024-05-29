@@ -11,4 +11,11 @@
     padding: 50px;
     margin-top: 60px;
   }
+  @media screen and (min-width: 390px) {
+    footer {
+      font-size: 5.2px;
+      padding: 12.9px;
+      margin-top: 15.5px;
+    }
+  }
 </style>
