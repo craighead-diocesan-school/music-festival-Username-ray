@@ -1,10 +1,14 @@
+<head>
+  <script src="https://kit.fontawesome.com/d3985f95e2.js" crossorigin="anonymous"></script>
+</head>
+
 <body>
   <div class="flexbox_header">
     <header class="title">
       <nav>
         <div class="flexitem_header">
           <div class="flexitem_nav_1">
-            <a href="/EnglishActs">Acts</a>
+            <a href="/EnglishActs"><i class="fa-solid fa-users-viewfinder"></i> Acts</a>
           </div>
         </div>
       </nav>
@@ -16,8 +20,8 @@
       <nav>
         <div class="flexitem_header">
           <div class="flexbox_nav">
-            <div class="flexitem_nav_2"><a href="/EnglishAccommodation">Accommodation</a></div>
-            <div class="flexitem_nav_2"><a href="/MaoriHome">Eng - Maori</a></div>
+            <div class="flexitem_nav_2"><a href="/EnglishAccommodation"><i class="fa-solid fa-tents fa-xs"></i> Accommodation</a></div>
+            <div class="flexitem_nav_2"><a href="/MaoriHome"><i class="fa-solid fa-globe fa-xs"></i> Eng - Maori</a></div>
           </div>
         </div>
       </nav>
@@ -52,7 +56,7 @@
     white-space: nowrap;
   }
   nav {
-    font-size: 24px;
+    font-size: 20.7px;
     filter: drop-shadow(0px 4px 4px #000000);
   }
   .flexbox_nav {
@@ -67,7 +71,6 @@
     min-width: 225px;
     border-radius: 30px;
   }
-
   .flexitem_nav_2 {
     background: #fc9145;
     margin: 10px 10px 15px 10px;
@@ -112,7 +115,7 @@
       min-width: 253.3px;
     }
     nav {
-      font-size: 6.19px;
+      font-size: 5.6px;
       filter: drop-shadow(0px 1px 1px #000000);
     }
     .flexitem_nav_1 {
@@ -144,7 +147,7 @@
       min-width: 546.7px;
     }
     nav {
-      font-size: 13px;
+      font-size: 11.8px;
       filter: drop-shadow(0px 2.1px 2.1px #000000);
     }
     .flexitem_nav_1 {

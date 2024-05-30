@@ -1,10 +1,14 @@
+<head>
+  <script src="https://kit.fontawesome.com/d3985f95e2.js" crossorigin="anonymous"></script>
+</head>
+
 <body>
   <div class="flexbox_header">
     <header class="title">
       <nav>
         <div class="flexitem_header">
           <div class="flexitem_nav_1">
-            <a href="/MaoriActs">Nga Mahi</a>
+            <a href="/MaoriActs"><i class="fa-solid fa-users-viewfinder"></i> Nga Mahi</a>
           </div>
         </div>
       </nav>
@@ -16,8 +20,8 @@
       <nav>
         <div class="flexitem_header">
           <div class="flexbox_nav">
-            <div class="flexitem_nav_2"><a href="/MaoriAccommodation">Nohonga</a></div>
-            <div class="flexitem_nav_2"><a href="/">Maori - Eng</a></div>
+            <div class="flexitem_nav_2"><a href="/MaoriAccommodation"><i class="fa-solid fa-tents fa-xs"></i> Nohonga</a></div>
+            <div class="flexitem_nav_2"><a href="/"><i class="fa-solid fa-globe fa-xs"></i> Maori - Eng</a></div>
           </div>
         </div>
       </nav>
@@ -50,11 +54,10 @@
     transform: translate(0, 15%);
   }
   .title_body {
-    min-width: 800px;
     white-space: nowrap;
   }
   nav {
-    font-size: 24px;
+    font-size: 20.5px;
     filter: drop-shadow(0px 4px 4px #000000);
   }
   .flexbox_nav {
@@ -63,7 +66,7 @@
   }
   .flexitem_nav_1 {
     background: #fc9145;
-    margin: 10px;
+    margin: 8px;
     padding: 15px 10px 15px 10px;
     transform: translate(0, 50%);
     min-width: 225px;
@@ -71,7 +74,7 @@
   }
   .flexitem_nav_2 {
     background: #fc9145;
-    margin: 10px 10px 15px 10px;
+    margin: 10px 8px 15px 8px;
     padding: 15px 10px 15px 10px;
     min-width: 225px;
     border-radius: 30px;
@@ -112,17 +115,17 @@
       min-width: 206.3px;
     }
     nav {
-      font-size: 6.19px;
+      font-size: 5.6px;
       filter: drop-shadow(0px 1px 1px #000000);
     }
     .flexitem_nav_1 {
-      margin: 2.6px;
+      margin: 2.06px;
       padding: 3.9px 2.6px 3.9px 2.6px;
       min-width: 58px;
       border-radius: 7.7px;
     }
     .flexitem_nav_2 {
-      margin: 2.6px 2.6px 3.9px 2.6px;
+      margin: 2.6px 2.06px 3.9px 2.06px;
       padding: 3.9px 2.6px 3.9px 2.6px;
       min-width: 58px;
       border-radius: 7.7px;
@@ -144,17 +147,17 @@
       min-width: 433.9px;
     }
     nav {
-      font-size: 13px;
+      font-size: 11.8px;
       filter: drop-shadow(0px 2.1px 2.1px #000000);
     }
     .flexitem_nav_1 {
-      margin: 5.5px;
+      margin: 4.3px;
       padding: 8.2px 5.5px 8.2px 5.5px;
       min-width: 122px;
       border-radius: 16.2px;
     }
     .flexitem_nav_2 {
-      margin: 5.5px 5.5px 8.2px 5.5px;
+      margin: 5.5px 4.3px 8.2px 4.3px;
       padding: 8.2px 5.5px 8.2px 5.5px;
       min-width: 122px;
       border-radius: 16.2px;
