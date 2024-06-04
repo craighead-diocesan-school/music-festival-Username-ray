@@ -8,7 +8,7 @@
       <nav>
         <div class="flexitem_header">
           <div class="flexitem_nav_1">
-            <a href="/MaoriActs"><i class="fa-solid fa-users-viewfinder"></i> Nga Mahi</a>
+            <a href="/MaoriActs" class="acts"><i class="fa-solid fa-users-viewfinder"></i> Nga Mahi</a>
           </div>
         </div>
       </nav>
@@ -20,8 +20,8 @@
       <nav>
         <div class="flexitem_header">
           <div class="flexbox_nav">
-            <div class="flexitem_nav_2"><a href="/MaoriAccommodation"><i class="fa-solid fa-tents fa-xs"></i> Nohonga</a></div>
-            <div class="flexitem_nav_2"><a href="/"><i class="fa-solid fa-globe fa-xs"></i> Maori - Eng</a></div>
+            <div class="flexitem_nav_2"><a href="/MaoriAccommodation" class="accommodation"><i class="fa-solid fa-tents fa-xs"></i> Nohonga</a></div>
+            <div class="flexitem_nav_2"><a href="/" class="language"><i class="fa-solid fa-globe fa-xs"></i> Maori - Eng</a></div>
           </div>
         </div>
       </nav>
@@ -98,6 +98,27 @@
   }
   .nav_text:hover {
     color: #000000;
+  }
+  .acts {
+    filter: drop-shadow(0px 3px 3px #3e3a39);
+    font-weight: bold;
+  }
+  .accommodation {
+    filter: drop-shadow(0px 3px 3px #3e3a39);
+    font-weight: bold;
+  }
+  .language {
+    filter: drop-shadow(0px 3px 3px #3e3a39);
+    font-weight: bold;
+  }
+  .acts:hover {
+    filter: drop-shadow(0px 3px 3px #fc9145);
+  }
+  .accommodation:hover {
+    filter: drop-shadow(0px 3px 3px #fc9145);
+  }
+  .language:hover {
+    filter: drop-shadow(0px 3px 3px #fc9145);
   }
   @media screen and (min-width: 390px) and (max-width: 819px) {
     header {
