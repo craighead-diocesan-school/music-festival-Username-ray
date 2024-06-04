@@ -8,16 +8,16 @@
 <main>
   <ul class="hoge-list">
     <li class="hoge-item">
-      <img class="hoge-item-image" src="samuel-regan-asante.jpg" alt="&copy; Samuel Regan Asante" />
+      <img class="hoge-item-image" src="samuel-regan-asante.jpg" alt="festival 4" caption="Samuel Regan Asante" />
     </li>
     <li class="hoge-item">
-      <img class="hoge-item-image" src="colin-lloyd-2.jpg" alt="&copy; Collin Lloyd" />
+      <img class="hoge-item-image" src="colin-lloyd-2.jpg" alt="festival 5" caption="Collin Lloyd" />
     </li>
     <li class="hoge-item">
-      <img class="hoge-item-image" src="colin-lloyd.jpg" alt="&copy; Collin Lloyd" />
+      <img class="hoge-item-image" src="colin-lloyd.jpg" alt="festival 6" caption="Collin Lloyd" />
     </li>
     <li class="hoge-item">
-      <img class="hoge-item-image" src="maxwell-collins.jpg" alt="&copy; Maxwell Collins" />
+      <img class="hoge-item-image" src="maxwell-collins.jpg" alt="festival 7" caption="Maxwell Collins" />
     </li>
   </ul>
   <div class="paragraph">
@@ -25,21 +25,21 @@
     <p>Our tents are spacious and come equipped with everything you need for a comfortable stay. With comfortable beds, pillows, and blankets, you can get a good night's sleep and wake up feeling refreshed and ready for another day of music and fun.</p>
   </div>
   <div class="container-img">
-    <img class="card-img" src="james-genchi.jpg" alt="&copy; Danny Genchi" />
+    <img class="card-img" src="james-genchi.jpg" alt="festival 8" caption="Danny Genchi" />
   </div>
   <div class="paragraph">
     <p>Located within the festival grounds, our tents are just a short walk away from all the stages and attractions. You won't have to worry about transportation or navigating crowds to get to the festival – you'll be right in the heart of it all.</p>
     <p>Our tents also come with a range of amenities to make your stay even more comfortable. You'll have access to clean restroom facilities, hot showers, and charging stations for your devices. We also have a dedicated staff available to assist with any needs or questions you may have during your stay.</p>
   </div>
   <div class="container-img">
-    <img class="card-img" src="jade-masri.jpg" alt="&copy; Jade Masri" />
+    <img class="card-img" src="jade-masri.jpg" alt="festival 9" caption="Jade Masri" />
   </div>
   <div class="paragraph">
     <p>But the best part of our tent accommodation packages is the community. You'll be surrounded by other festival-goers who are just as excited as you are to be a part of the experience. You'll make new friends, share stories, and create memories that will last a lifetime.</p>
     <p>Don't miss out on this opportunity to enhance your music festival experience. Book your tent accommodation package today and get ready for an unforgettable adventure. We can't wait to see you there!</p>
   </div>
   <div class="container-img">
-    <img class="card-img" src="tony-pham.jpg" alt="&copy; Tony Pham" />
+    <img class="card-img" src="tony-pham.jpg" alt="festival 10" caption="Tony Pham" />
   </div>
   <div class="container-tent">
     <p>Tent sites</p>

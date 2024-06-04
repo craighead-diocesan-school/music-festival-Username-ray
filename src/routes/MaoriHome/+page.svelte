@@ -7,21 +7,21 @@
 
 <main>
   <div class="container-img">
-    <img class="card-img" src="aditya-chinchure.jpg" alt="&copy; Aditya Chinchure" />
+    <img class="card-img" src="aditya-chinchure.jpg" alt="festival 1" caption="Aditya Chinchure" />
   </div>
   <div class="paragraph">
     <p>Nau mai ki te tino wheako hakari waiata! Whakaritea mo te ra ki tonu i nga puoro ora, nga kai pai, me nga maharatanga e kore e warewarehia.</p>
     <p>Kei roto i ta maatau hakari te tini kanorau o nga kaiwaiata mohio mai i nga momo momo, ka tino makona nga reka katoa o te puoro. Ma te maha o nga waahanga kua whakaritea puta noa i te waahi, ka taea e koe te neke mai i tetahi mahi ki tera mahi, ka kitea nga mea pai hou me te pai ki nga mahi rongonui.</p>
   </div>
   <div class="container-img">
-    <img class="card-img" src="danny-howe-2.jpg" alt="&copy; Danny Howe" />
+    <img class="card-img" src="danny-howe-2.jpg" alt="festival 2" caption="Danny Howe" />
   </div>
   <div class="paragraph">
     <p>Mai i nga kaitoi e haere ake nei ki nga rangatira rangatira, kua whakaritea e matou he rarangi whakaihiihi hei pupuri i a koe ki te kanikani me te waiata puta noa i te ra. Ko ta matou hakari te waahi tino pai ki te kite i nga puoro hou, te kite i o kaitoi tino pai ki te ora, me te maumahara ki nga hoa me te whanau.</p>
     <p>Engari ko te waiata he timatanga noa iho. Ka whakanuia ano e ta maatau hakari te kowhiringa whakamiharo o nga kaihoko kai, e tuku ana i nga mea katoa mai i nga utu hakari matarohia ki etahi atu whiringa kai. E kore koe e hiakai me nga kai reka me nga inu whakamaarama e waatea ana puta noa i te waahi.</p>
   </div>
   <div class="container-img">
-    <img class="card-img" src="hanny-naibaho.jpg" alt="&copy; Hanny Naibaho" />
+    <img class="card-img" src="hanny-naibaho.jpg" alt="festival 3" caption="Hanny Naibaho" />
   </div>
   <div class="paragraph">
     <p>I tua atu i te waiata me te kai, kei roto i ta maatau hakari nga momo mahi hei whakangahau i a koe puta noa i te ra. Mai i nga whakaurunga toi tae noa ki nga whare hokohoko, he mea pai mo te katoa. Ka taea e koe te hopu i nga maharatanga me o maatau whare whakaahua huihuinga me te hopu i te whaiaro me o kaitoi tino pai.</p>

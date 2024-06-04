@@ -8,16 +8,16 @@
 <main>
   <ul class="hoge-list">
     <li class="hoge-item">
-      <img class="hoge-item-image" src="samuel-regan-asante.jpg" alt="&copy; Samuel Regan Asante" />
+      <img class="hoge-item-image" src="samuel-regan-asante.jpg" alt="festival 4" caption="Samuel Regan Asante" />
     </li>
     <li class="hoge-item">
-      <img class="hoge-item-image" src="colin-lloyd-2.jpg" alt="&copy; Collin Lloyd" />
+      <img class="hoge-item-image" src="colin-lloyd-2.jpg" alt="festival 5" caption="Collin Lloyd" />
     </li>
     <li class="hoge-item">
-      <img class="hoge-item-image" src="colin-lloyd.jpg" alt="&copy; Collin Lloyd" />
+      <img class="hoge-item-image" src="colin-lloyd.jpg" alt="festival 6" caption="Collin Lloyd" />
     </li>
     <li class="hoge-item">
-      <img class="hoge-item-image" src="maxwell-collins.jpg" alt="&copy; Maxwell Collins" />
+      <img class="hoge-item-image" src="maxwell-collins.jpg" alt="festival 7" caption="Maxwell Collins" />
     </li>
   </ul>
   <div class="paragraph">
@@ -25,21 +25,21 @@
     <p>He mahorahora o matou teneti me nga mea katoa e hiahia ana koe mo te noho pai. Ma nga moenga pai, nga urunga, me nga paraikete, ka taea e koe te moe pai i te po me te oho ake me te noho rite mo tetahi atu ra waiata me te ngahau.</p>
   </div>
   <div class="container-img">
-    <img class="card-img" src="james-genchi.jpg" alt="&copy; Danny Genchi" />
+    <img class="card-img" src="james-genchi.jpg" alt="festival 8" caption="Danny Genchi" />
   </div>
   <div class="paragraph">
     <p>Kei roto i te papa hakari, he iti noa te hikoi atu o matou teneti mai i nga waahanga me nga waahi. Kare koe e manukanuka ki te kawe waka, ki te whakatere i te mano kia tae atu ki te hakari - ka noho koe ki roto i te ngakau o enei mea katoa.</p>
     <p>Ka tae mai ano o matou teneti me te maha o nga taputapu kia pai ake ai to noho. Ka whai waahi koe ki nga whare horoi horoi, nga ua wera, me nga teihana utu mo o taputapu. Kei a matou he kaimahi motuhake e waatea ana ki te awhina i nga hiahia me nga patai kei a koe i a koe e noho ana.</p>
   </div>
   <div class="container-img">
-    <img class="card-img" src="jade-masri.jpg" alt="&copy; Jade Masri" />
+    <img class="card-img" src="jade-masri.jpg" alt="festival 9" caption="Jade Masri" />
   </div>
   <div class="paragraph">
     <p>Engari ko te mea pai rawa atu o a maatau kete noho teneti ko te hapori. Ka karapotia koe e etahi atu kaikawe hakari e rite ana ki a koe te hikaka ki te whai waahi ki te wheako. Ka whai hoa hou koe, ka tiritiri korero, ka hanga maumahara ka mau mo te wa katoa.</p>
     <p>Kaua e ngaro i tenei waahi ki te whakanui i to wheako hakari waiata. Tuhia to kete noho teneti i tenei ra, kia rite mo te haerenga e kore e warewarehia. Kare e taea e matou te tatari kia kite koe i reira!</p>
   </div>
   <div class="container-img">
-    <img class="card-img" src="tony-pham.jpg" alt="&copy; Tony Pham" />
+    <img class="card-img" src="tony-pham.jpg" alt="festival 10" caption="Tony Pham" />
   </div>
   <div class="container-tent">
     <p>Nga waahi teneti</p>
